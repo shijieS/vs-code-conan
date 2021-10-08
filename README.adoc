@@ -22,7 +22,7 @@ image:images/installbuild.gif[Build and install]
 
 To create package use the create button at the bottom!
 
-![Build and install](images/create.gif)
+image:images/create.gif[create package]
 
 ==== Install Workspace
 
